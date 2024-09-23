@@ -116,7 +116,7 @@ function LoginForm() {
             <div className="grid gap-4">
               <Label htmlFor="nombre" className="text-md">
                 {progress === 0 && "Paso 1: Datos Personales"}
-                {progress === 1 && "Paso 2: Sector Público"}
+                {progress === 1 && "Paso 2: Empresa"}
               </Label>
 
               <Steps
