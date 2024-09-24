@@ -100,7 +100,7 @@ export async function sendEmail({ code, mail, name }) {
         <b>${name}</b>, su inscripci&oacute;n ha sido procesada exitosamente.
       </p>
       <p class="detalle"><b>
-         Recibir&aacute; un correo confirmando su inscripci&oacute;n, junto con el QR y c&oacute;digo para el ingreso al evento.</b>
+         Presente este QR y c&oacute;digo de confirmaci&oacute;n para el ingreso al evento</b>
       </p>
       <p class="detalle">
         <b>Foro Nacional:</b> Reactivaci&oacute;n Petrolera en la Region Ucayali
